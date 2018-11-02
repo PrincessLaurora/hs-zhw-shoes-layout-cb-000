@@ -26,8 +26,7 @@
 h2 + .shadow {
   float: left;
   width: 63%;
-  column-gap: 10px;
-  column-fill: red;
+  
   margin-bottom: 20px;
 }
 
