@@ -28,7 +28,7 @@ h2 + .shadow {
   width: 66%;
 }
 
-h2 h3 {
+.aside {
   float: right;
   width: 33%;
   margin: 0 1.5%;
