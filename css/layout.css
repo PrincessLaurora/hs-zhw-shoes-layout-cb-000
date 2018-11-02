@@ -42,4 +42,5 @@ float: left;
 
 .border_right,.col-7 {
   width: 32%;
+  float: left;
 }
