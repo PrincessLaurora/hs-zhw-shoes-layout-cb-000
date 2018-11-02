@@ -25,11 +25,11 @@
 /* Positioning Classes */
 h2 + .shadow {
   float: left;
-  width: 65%;
+  width: 60%;
 }
 
 .aside {
   float: right;
-  width: 32%;
-  margin: 0 0 0 1%;
+  width: 30%;
+  margin: 0 0 0 5%;
 }
