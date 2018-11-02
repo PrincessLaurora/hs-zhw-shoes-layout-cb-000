@@ -41,4 +41,6 @@ float: left;
 width: 32%;
 }
 
-
+.col-5 {
+  padding-right: 20px;
+}
