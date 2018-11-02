@@ -33,5 +33,6 @@ h2 + .shadow {
  #aside {
   float: right;
   width: 33%;
-  margin-bottom: 18px;
+  margin-bottom: 20px;
+  margin-top: 2px;
 }
