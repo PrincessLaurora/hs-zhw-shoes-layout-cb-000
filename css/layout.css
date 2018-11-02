@@ -40,4 +40,5 @@ h2 + .shadow {
 margin: 5px;
 width: 30%;
 float: left;
+display: inline-block;
 }
