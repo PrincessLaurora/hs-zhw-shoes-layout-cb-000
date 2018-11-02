@@ -37,4 +37,5 @@ h2 + .shadow {
 }
 
 [class*="col-"] {
+  margin: 5px;
   
