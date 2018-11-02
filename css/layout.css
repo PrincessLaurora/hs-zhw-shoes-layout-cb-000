@@ -29,6 +29,6 @@ h2 + .shadow {
 }
 
  #aside {
-  float: left;
+  float: right;
   width: 70%;
 }
