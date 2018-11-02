@@ -40,6 +40,6 @@ margin: 5px;
 float: left;
 }
 
-.col-5, .col-6, .col-7 {
+.border_right,.col-7 {
   width: 32%;
 }
