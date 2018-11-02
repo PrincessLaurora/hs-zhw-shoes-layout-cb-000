@@ -34,5 +34,6 @@ h2 + .shadow {
  #aside {
   float: right;
   width: 33%;
+  column-rule-color: transparent;
   margin-bottom: 20px;
 }
