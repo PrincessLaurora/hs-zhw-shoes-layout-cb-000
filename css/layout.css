@@ -24,7 +24,6 @@
 
 /* Positioning Classes */
 h2 + .shadow {
-  float: left;
   width: 63%;
   margin-bottom: 20px;
 }
